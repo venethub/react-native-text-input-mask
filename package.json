@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-text-input-mask"
+    "url": "https://github.com/venethub/react-native-text-input-mask"
   },
   "keywords": [
     "react",
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/react-native-community/react-native-text-input-mask/issues"
   },
-  "homepage": "https://github.com/react-native-community/react-native-text-input-mask"
+  "homepage": "https://github.com/venethub/react-native-text-input-mask",
+  "license": "MIT"
 }
